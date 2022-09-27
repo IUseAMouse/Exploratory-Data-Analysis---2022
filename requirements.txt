@@ -7,3 +7,4 @@ dataprep
 pandas-profiling[notebook]
 sweetviz
 autoviz
+openpyxl
