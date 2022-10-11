@@ -8,3 +8,6 @@ pandas-profiling[notebook]
 sweetviz
 autoviz
 openpyxl
+yahoo_fin
+requests
+plotly
