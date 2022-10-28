@@ -3,10 +3,6 @@ matplotlib
 seaborn
 ipywidgets
 pandas
-dataprep
-pandas-profiling[notebook]
-sweetviz
-autoviz
 openpyxl
 yahoo_fin
 requests
