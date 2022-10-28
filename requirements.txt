@@ -7,3 +7,4 @@ openpyxl
 yahoo_fin
 requests
 plotly
+statsmodels
