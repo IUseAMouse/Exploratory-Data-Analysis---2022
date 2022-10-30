@@ -8,3 +8,7 @@ yahoo_fin
 requests
 plotly
 statsmodels
+geopandas
+contextily
+folium
+mapclassify
