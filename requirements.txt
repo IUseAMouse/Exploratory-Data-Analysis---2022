@@ -12,3 +12,11 @@ geopandas
 contextily
 folium
 mapclassify
+scipy
+dash
+jupyter-dash
+altair
+altair_latimes
+vega_datasets
+bokeh
+jupyter_server_proxy
